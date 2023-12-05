@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "prompt-sync": "^4.2.0",
+    "securerandom": "^0.0.2",
+    "word-table": "^1.0.3"
+  }
+}
